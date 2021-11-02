@@ -119,7 +119,7 @@ li.current-menu-item a {
 }
 
 .swiper-slide img {
-    @apply rounded-lg shadow-xl h-56 sm:h-64 md:h-96 object-cover;
+    @apply rounded-lg shadow-xl h-56 sm:h-64 md:h-96 object-cover w-full;
 }
 
 .swiper-pagination {
