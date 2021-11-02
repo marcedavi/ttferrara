@@ -1,18 +1,8 @@
 <?php get_header(); ?>
 
-<div class="container mx-auto my-8">
+<div class="container my-8">
 
-	<?php if ( have_posts() ) : ?>
-		<?php
-		while ( have_posts() ) :
-			the_post();
-			?>
-
-			<?php get_template_part( 'template-parts/content', get_post_format() ); ?>
-
-		<?php endwhile; ?>
-
-	<?php endif; ?>
+	<h3>Se sei arrivato a questa pagina c'è qualcosa che non va.</h3>
 
 </div>
 

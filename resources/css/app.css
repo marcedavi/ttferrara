@@ -2,4 +2,6 @@
 @import "tailwindcss/components";
 @import "tailwindcss/utilities";
 
+@import "simple-lightbox.min.css";
+@import "swiper-bundle.min.css";
 @import "custom.css";

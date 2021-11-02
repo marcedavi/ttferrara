@@ -1,3 +1,5 @@
+const defaultTheme = require('tailwindcss/defaultTheme')
+
 module.exports = {
     mode: 'jit',
     purge: [
@@ -9,7 +11,24 @@ module.exports = {
     ],
     darkMode: false, // or 'media' or 'class'
     theme: {
-        extend: {},
+        extend: {
+            transitionProperty: {
+                'max-height': 'max-height'
+            },
+        },
+        fontFamily: {
+            sans: ['Poppins', ...defaultTheme.fontFamily.sans],
+        },
+        container: {
+            center: true,
+            padding: {
+                DEFAULT: '1rem',
+                sm: '1rem',
+                lg: '4rem',
+                xl: '8rem',
+                '2xl': '12rem',
+            },
+        },
     },
     variants: {
         extend: {},
