@@ -129,6 +129,12 @@ function ttferrara_customize_register($wp_customize)
             'type' => 'textfield',
             'section' => 'ttferrara',
         ));
+        $wp_customize->add_setting('carousel[page_' . $i . ']');
+        $wp_customize->add_control('carousel[page_' . $i . ']', array(
+			'label'    => 'Select Page',
+			'section'  => 'ttferrara',
+			'type'     => 'dropdown-pages'
+		));
         $wp_customize->add_setting('carousel[image_' . $i . ']');
         $wp_customize->add_control(new WP_Customize_Media_Control($wp_customize, 'carousel[image_' . $i . ']', array(
             'label' => 'Carousel Image ' . $i,

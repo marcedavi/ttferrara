@@ -3,10 +3,10 @@
 <section class="container">
     <div class="image-overlay w-full h-40 sm:h-64 md:h-80 lg:h-96">
             <?php echo wp_get_attachment_image(get_theme_mod('carousel')['image_1'], 'ttferrara_large', false, array(
-                'class' => 'object-cover h-full w-full'
+                'class' => 'object-cover w-full'
             )); ?>
         <div class="dark-overlay"></div>
-    </div>    
+    </div>
 </div>
 
 <section class="container">

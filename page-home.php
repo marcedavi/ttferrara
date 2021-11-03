@@ -8,12 +8,13 @@
             $slides =  get_theme_mod('carousel', array());
             for ($i = 1; $i <= count($slides) / 2; $i++) :
                 $image_id = $slides['image_' . $i];
+                $link = get_permalink($slides['page_' . $i]);
                 $text = $slides['text_' . $i];
-                if ($image_id === '' && $text === '') continue; ?>
+                if ($image_id === '' || $link == '' || $text === '') continue; ?>
 
                 <div class="swiper-slide">
                     <div class="container">
-                        <a href="#">
+                        <a href="<?php echo $link; ?>">
                             <div class="image-overlay shadow-xl">
                                 <?php echo wp_get_attachment_image($image_id, 'ttferrara_large'); ?>
 
