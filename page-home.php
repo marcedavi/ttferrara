@@ -10,7 +10,7 @@
                 $image_id = $slides['image_' . $i];
                 $link = get_permalink($slides['page_' . $i]);
                 $text = $slides['text_' . $i];
-                if ($image_id === '' || $link == '' || $text === '') continue; ?>
+                if (is_null($image_id)) continue; ?>
 
                 <div class="swiper-slide">
                     <div class="container">
