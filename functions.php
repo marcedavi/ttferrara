@@ -23,8 +23,19 @@ function ttferrara_setup()
             'primary-right' => 'Primary Menu Right',
         )
     );
+
 }
 add_action('after_setup_theme', 'ttferrara_setup');
+
+/**
+ * Register taxonomies for attachments
+ */
+function ttferrara_attachment_taxonomies() {
+    // Add tags to attachments
+    register_taxonomy_for_object_type('post_tag', 'attachment');
+}
+
+add_action('init', 'ttferrara_attachment_taxonomies');
 
 /**
  * Enqueue theme assets.

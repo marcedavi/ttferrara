@@ -8,7 +8,15 @@
         'post_type' => 'attachment',
         'post_status' => 'inherit',
         'posts_per_page' => -1,
-        'year' => $year
+        'year' => $year,
+        'tax_query' => array(
+            array(
+                'taxonomy' => 'post_tag',
+                'field'    => 'slug',
+                'terms'    => 'hidden',
+                'operator' => 'NOT IN'
+            ),
+        ),
     )); ?>
     
     <h1 class="text-4xl w-full font-bold text-center uppercase">Gallery <?php echo $year; ?></h1>
