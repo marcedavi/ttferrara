@@ -3,7 +3,8 @@
         'flex',
         'flex-col',
         'md:flex-row',
-        'relative'
+        'relative',
+        'h-32'
     )); ?>>
 
         <div class="w-full md:w-1/6">
