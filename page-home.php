@@ -54,33 +54,39 @@
             <tbody>
                 <tr>
                     <td>B2</td>
-                    <td>PaninoLab Bagnolese a.s.d.</td>
-                    <td>A.S.D. T.T. FERRARA A</td>
-                    <td>07/11/2021 - 10:00</td>
+                    <td><span class="font-medium">A.S.D. T.T. FERRARA A</span></td>
+                    <td>A&G - ASDTT MARCO POLO</td>
+                    <td>16/01/2022 - 17:30</td>
                 </tr>
                 <tr>
                     <td>C1</td>
-                    <td>Fortitudo Bologna 1</td>
-                    <td>A.S.D. T.T. FERRARA B</td>
-                    <td>06/11/2021 - 20:30</td>
+                    <td><span class="font-medium">A.S.D. T.T. FERRARA B</span></td>
+                    <td>TT-ARSENAL-ASD</td>
+                    <td>15/01/2022 - 16:00</td>
+                </tr>
+                <tr>
+                    <td>C2</td>
+                    <td>MAIOR 1</td>
+                    <td><span class="font-medium">A.S.D. T.T. FERRARA C</span></td>
+                    <td>16/01/2022 - 10:00</td>
                 </tr>
                 <tr>
                     <td>D1</td>
-                    <td>A.S.D. T.T. FERRARA D</td>
-                    <td>POL. Reno Centese B</td>
-                    <td>6/11/2021 - 16:00</td>
+                    <td>ASS. DYNAMIS TOPSOLID C</td>
+                    <td><span class="font-medium">A.S.D. T.T. FERRARA D</span></td>
+                    <td>15/01/2022 - 16:00</td>
                 </tr>
                 <tr>
                     <td>D2</td>
-                    <td>ASD Castenaso Ping Pong Due</td>
-                    <td>A.S.D. T.T. FERRARA E</td>
-                    <td>7/11/2021 - 10:00</td>
+                    <td><span class="font-medium">A.S.D. T.T. FERRARA E</span></td>
+                    <td>FORTITUDO BOLOGNA 9</td>
+                    <td>23/10/2022 - 10:00</td>
                 </tr>
                 <tr>
                     <td>D2</td>
-                    <td>US Zinella CSI Metalparma B</td>
-                    <td>A.S.D. T.T. FERRARA F</td>
-                    <td>6/11/2021 - 16:00</td>
+                    <td><span class="font-medium">A.S.D. T.T. FERRARA F</span></td>
+                    <td>ASD TENNISTAVOLO NETTUNO - CIBIX</td>
+                    <td>15/01/2022 - 16:00</td>
                 </tr>
             </tbody>
         </table>

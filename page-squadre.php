@@ -1,6 +1,6 @@
 <?php get_header(); ?>
 
-<section class="container">
+<section class="container mb-8">
     <h1 class="text-3xl uppercase font-bold text-center mb-2">Squadre</h1>
 
     <div class="image-and-text-left">

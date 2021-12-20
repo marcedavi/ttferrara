@@ -1,6 +1,6 @@
 <?php get_header(); ?>
 
-<section class="container">
+<section class="container mb-8">
     <h2>Corsi e Allenamenti</h1>
 
     <div class="image-and-text-left">
