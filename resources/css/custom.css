@@ -137,3 +137,8 @@ li.current-menu-item a {
 .swiper-button-prev, .swiper-button-next {
     @apply text-red-800 hidden md:block;
 }
+
+/* Content-single */
+.content-single > p {
+    @apply mb-2;
+}

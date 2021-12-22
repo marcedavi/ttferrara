@@ -80,7 +80,7 @@
                     <td>D2</td>
                     <td><span class="font-medium">A.S.D. T.T. FERRARA E</span></td>
                     <td>FORTITUDO BOLOGNA 9</td>
-                    <td>23/10/2022 - 10:00</td>
+                    <td>23/01/2022 - 10:00</td>
                 </tr>
                 <tr>
                     <td>D2</td>

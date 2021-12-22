@@ -9,12 +9,14 @@
         <time datetime="<?php echo get_the_date( 'c' ); ?>" itemprop="datePublished" class="text-sm text-gray-700"><?php echo get_the_date(); ?></time>
     </header>
 
-    <?php the_post_thumbnail('ttferrara_large', array(
-        'class' => 'w-full rounded-lg shadow-lg mb-16'
-    )); ?>
-
-	<div class="entry-content">
-		<?php the_content(); ?>
+	<div>
+		<div class="content-single">
+            <?php the_post_thumbnail('ttferrara_large', array(
+                'class' => 'w-[128] rounded-lg shadow-lg float-right ml-8 mb-8'
+            )); ?>        
+            <?php echo get_the_content(); ?>
+        </div>
+            
 
 		<?php
 			wp_link_pages(
