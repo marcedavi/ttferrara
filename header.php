@@ -16,9 +16,11 @@
 
         <header class="fixed w-full bg-gray-50 z-50 shadow-xl">
             <div class="container">
-                <?php echo wp_get_attachment_image(get_theme_mod('custom_logo_setting'), 'medium', false, array(
-                    'class' => 'h-24 w-auto absolute top-0 left-0 right-0 mx-auto'
-                )); ?>
+                <a href="<?php echo get_site_url(); ?>" class="h-24 w-44 absolute top-0 left-0 right-0 mx-auto">
+                    <?php echo wp_get_attachment_image(get_theme_mod('custom_logo_setting'), 'medium', false, array(
+                        'class' => 'h-24 w-auto absolute top-0 left-0 right-0 mx-auto'
+                    )); ?>
+                </a>
 
                 <div class="absolute top-8 lg:hidden">
                     <a href="#" aria-label="Toggle navigation" id="primary-menu-toggle">
