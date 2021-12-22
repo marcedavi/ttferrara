@@ -12,7 +12,7 @@
 	<div>
 		<div class="content-single">
             <?php the_post_thumbnail('ttferrara_large', array(
-                'class' => 'w-[128] rounded-lg shadow-lg float-right ml-8 mb-8'
+                'class' => 'w-1/2 rounded-lg shadow-lg float-right ml-8 mb-8'
             )); ?>        
             <?php echo get_the_content(); ?>
         </div>
