@@ -11,6 +11,7 @@
             <p>Andrea D'Amore</p>
             <p>Maurizio Buzzone</p>
             <p>Guido Caravita</p>
+            <a href="http://portale.fitet.org/risultati/campionati/campionati.php?CAM=12&CONC=0" class="mt-4 link">Classifica, calendario e statistiche</a>
         </div>
         <?php echo wp_get_attachment_image(get_theme_mod('squadra_a_image_setting'), 'ttferrara_large'); ?>
     </div>
@@ -23,6 +24,7 @@
             <p>Sergio Curarati</p>
             <p>Giulio Sani</p>
             <p>Simone Gallerani</p>
+            <a href="http://portale.fitet.org/risultati/campionati/campionati.php?CAM=40&CONC=0" class="mt-4 link">Classifica, calendario e statistiche</a>
         </div>
     </div>
 
@@ -34,6 +36,7 @@
             <p>Enrico Mugellini</p>
             <p>Silvia Traversi</p>
             <p>Gianfabrizio Musacchia</p>
+            <a href="http://portale.fitet.org/risultati/campionati/campionati.php?CAM=902&CONC=0" class="mt-4 link">Classifica, calendario e statistiche</a>
         </div>
         <?php echo wp_get_attachment_image(get_theme_mod('squadra_c_image_setting'), 'ttferrara_large'); ?>
     </div>
@@ -48,6 +51,7 @@
             <p>Pietro Andreoli</p>
             <p>Stefano Zorzan</p>
             <p>Lorenzo Blasi</p>
+            <a href="http://portale.fitet.org/risultati/campionati/campionati.php?CAM=904&CONC=0" class="mt-4 link">Classifica, calendario e statistiche</a>
         </div>
     </div>
 
@@ -60,6 +64,7 @@
             <p>Marcello Davi</p>
             <p>Massimo Scalorbi</p>
             <p>Claudio Sfrisi</p>
+            <a href="http://portale.fitet.org/risultati/campionati/campionati.php?CAM=908&CONC=0" class="mt-4 link">Classifica, calendario e statistiche</a>
         </div>
         <?php echo wp_get_attachment_image(get_theme_mod('squadra_e_image_setting'), 'ttferrara_large'); ?>
     </div>
@@ -74,6 +79,7 @@
             <p>Alessio Giuliani</p>
             <p>Filippo Azzolina</p>
             <p>Corrado Gangarella</p>
+            <a href="http://portale.fitet.org/risultati/campionati/campionati.php?CAM=909&CONC=0" class="mt-4 link">Classifica, calendario e statistiche</a>
         </div>
     </div>
 </section>

@@ -50,6 +50,10 @@
                 <p>Paolo Bianchetti</p>
             </div>
             <div class="flex justify-between text-sm sm:text-lg">
+                <p class="font-medium">Rapporti con la stampa:</p>
+                <p>Luca Antonucci</p>
+            </div>
+            <div class="flex justify-between text-sm sm:text-lg">
                 <p class="font-medium">Sito Internet e Social Media:</p>
                 <p>Marcello Davi</p>
             </div>
