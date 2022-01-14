@@ -56,37 +56,37 @@
                     <td>B2</td>
                     <td><span class="font-medium">A.S.D. T.T. FERRARA A</span></td>
                     <td>A&G - ASDTT MARCO POLO</td>
-                    <td>16/01/2022 - 17:30</td>
+                    <td>SOSPESO</td>
                 </tr>
                 <tr>
                     <td>C1</td>
                     <td><span class="font-medium">A.S.D. T.T. FERRARA B</span></td>
                     <td>TT-ARSENAL-ASD</td>
-                    <td>15/01/2022 - 16:00</td>
+                    <td>SOSPESO</td>
                 </tr>
                 <tr>
                     <td>C2</td>
                     <td>MAIOR 1</td>
                     <td><span class="font-medium">A.S.D. T.T. FERRARA C</span></td>
-                    <td>16/01/2022 - 10:00</td>
+                    <td>SOSPESO</td>
                 </tr>
                 <tr>
                     <td>D1</td>
                     <td>ASS. DYNAMIS TOPSOLID C</td>
                     <td><span class="font-medium">A.S.D. T.T. FERRARA D</span></td>
-                    <td>15/01/2022 - 16:00</td>
+                    <td>SOSPESO</td>
                 </tr>
                 <tr>
                     <td>D2</td>
                     <td><span class="font-medium">A.S.D. T.T. FERRARA E</span></td>
                     <td>FORTITUDO BOLOGNA 9</td>
-                    <td>23/01/2022 - 10:00</td>
+                    <td>SOSPESO</td>
                 </tr>
                 <tr>
                     <td>D2</td>
                     <td><span class="font-medium">A.S.D. T.T. FERRARA F</span></td>
                     <td>ASD TENNISTAVOLO NETTUNO - CIBIX</td>
-                    <td>15/01/2022 - 16:00</td>
+                    <td>SOSPESO</td>
                 </tr>
             </tbody>
         </table>
@@ -99,13 +99,12 @@
 
     <div class="flex flex-col gap-y-4">
         <?php
-        $year = get_query_var('y', date("Y"));
 
         $query = new WP_Query(array(
             'post_type' => 'post',
             'post_status' => 'publish',
             'posts_per_page' => 5,
-            'year' => $year
+            'tag__not_in' => array( 26 )
         ));
 
         if ($query->have_posts()) :
