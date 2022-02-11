@@ -54,39 +54,39 @@
             <tbody>
                 <tr>
                     <td>B2</td>
+                    <td>METALPARMA VILLA D'ORO MODENA</td>
                     <td><span class="font-medium">A.S.D. T.T. FERRARA A</span></td>
-                    <td>A&G - ASDTT MARCO POLO</td>
-                    <td>SOSPESO</td>
+                    <td>19/02 - 16:00</td>
                 </tr>
                 <tr>
                     <td>C1</td>
+                    <td>TT ACLI LUGO C1</td>
                     <td><span class="font-medium">A.S.D. T.T. FERRARA B</span></td>
-                    <td>TT-ARSENAL-ASD</td>
-                    <td>SOSPESO</td>
+                    <td>20/02 - 10:00</td>
                 </tr>
                 <tr>
                     <td>C2</td>
-                    <td>MAIOR 1</td>
                     <td><span class="font-medium">A.S.D. T.T. FERRARA C</span></td>
-                    <td>SOSPESO</td>
+                    <td>ADS TENNISTAVOLO NETTUNO - CIBIX</td>
+                    <td>19/02 - 16:00</td>
                 </tr>
                 <tr>
                     <td>D1</td>
-                    <td>ASS. DYNAMIS TOPSOLID C</td>
                     <td><span class="font-medium">A.S.D. T.T. FERRARA D</span></td>
-                    <td>SOSPESO</td>
-                </tr>
-                <tr>
-                    <td>D2</td>
-                    <td><span class="font-medium">A.S.D. T.T. FERRARA E</span></td>
-                    <td>FORTITUDO BOLOGNA 9</td>
-                    <td>SOSPESO</td>
-                </tr>
-                <tr>
-                    <td>D2</td>
-                    <td><span class="font-medium">A.S.D. T.T. FERRARA F</span></td>
                     <td>ASD TENNISTAVOLO NETTUNO - CIBIX</td>
-                    <td>SOSPESO</td>
+                    <td>19/02 - 16:00</td>
+                </tr>
+                <tr>
+                    <td>D2</td>
+                    <td>MAIOR 3 MARZIA</td>
+                    <td><span class="font-medium">A.S.D. T.T. FERRARA E</span></td>
+                    <td>20/02 - 10:00</td>
+                </tr>
+                <tr>
+                    <td>D2</td>
+                    <td>ASD CASTENASO PING PONG QUATTRO</td>
+                    <td><span class="font-medium">A.S.D. T.T. FERRARA F</span></td>
+                    <td>20/02 - 10:00</td>
                 </tr>
             </tbody>
         </table>
