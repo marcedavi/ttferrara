@@ -54,39 +54,39 @@
             <tbody>
                 <tr>
                     <td>B2</td>
-                    <td>METALPARMA VILLA D'ORO MODENA</td>
                     <td><span class="font-medium">A.S.D. T.T. FERRARA A</span></td>
-                    <td>19/02 - 16:00</td>
+                    <td>USD VILLAZZANO TT</td>
+                    <td>20/03 - 17:30</td>
                 </tr>
                 <tr>
                     <td>C1</td>
-                    <td>TT ACLI LUGO C1</td>
                     <td><span class="font-medium">A.S.D. T.T. FERRARA B</span></td>
-                    <td>20/02 - 10:00</td>
+                    <td>ASD VELOSPORT CARPI</td>
+                    <td>19/03 - 16:00</td>
                 </tr>
                 <tr>
                     <td>C2</td>
+                    <td>TT RIMINI - SMR - IDROLAB2B</td>
                     <td><span class="font-medium">A.S.D. T.T. FERRARA C</span></td>
-                    <td>ADS TENNISTAVOLO NETTUNO - CIBIX</td>
-                    <td>19/02 - 16:00</td>
+                    <td>19/03 - 16:30</td>
                 </tr>
                 <tr>
                     <td>D1</td>
+                    <td>TT RIMINI - SMR - IDROLAB2B</td>
                     <td><span class="font-medium">A.S.D. T.T. FERRARA D</span></td>
-                    <td>ASD TENNISTAVOLO NETTUNO - CIBIX</td>
-                    <td>19/02 - 16:00</td>
+                    <td>19/03 - 16:30</td>
                 </tr>
                 <tr>
                     <td>D2</td>
-                    <td>MAIOR 3 MARZIA</td>
                     <td><span class="font-medium">A.S.D. T.T. FERRARA E</span></td>
-                    <td>20/02 - 10:00</td>
+                    <td>ASD CASTENASO PING PONG TRE</td>
+                    <td>20/03 - 10:00</td>
                 </tr>
                 <tr>
                     <td>D2</td>
-                    <td>ASD CASTENASO PING PONG QUATTRO</td>
                     <td><span class="font-medium">A.S.D. T.T. FERRARA F</span></td>
-                    <td>20/02 - 10:00</td>
+                    <td>TT ACLI LUGO D2 SENIOR</td>
+                    <td>19/03 - 16:00</td>
                 </tr>
             </tbody>
         </table>
