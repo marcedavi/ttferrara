@@ -42,7 +42,7 @@
     <h2>Prossimi incontri</h2>
 
     <div class="overflow-x-auto">
-        <table class="table-auto mx-auto">
+        <table id="next-matches-table" class="table-auto mx-auto">
             <thead>
                 <tr>
                     <th>Serie</th>
@@ -52,42 +52,7 @@
                 </tr>
             </thead>
             <tbody>
-                <tr>
-                    <td>B2</td>
-                    <td><span class="font-medium">A.S.D. T.T. FERRARA A</span></td>
-                    <td>USD VILLAZZANO TT</td>
-                    <td>20/03 - 17:30</td>
-                </tr>
-                <tr>
-                    <td>C1</td>
-                    <td><span class="font-medium">A.S.D. T.T. FERRARA B</span></td>
-                    <td>ASD VELOSPORT CARPI</td>
-                    <td>19/03 - 16:00</td>
-                </tr>
-                <tr>
-                    <td>C2</td>
-                    <td>TT RIMINI - SMR - IDROLAB2B</td>
-                    <td><span class="font-medium">A.S.D. T.T. FERRARA C</span></td>
-                    <td>19/03 - 16:30</td>
-                </tr>
-                <tr>
-                    <td>D1</td>
-                    <td>TT RIMINI - SMR - IDROLAB2B</td>
-                    <td><span class="font-medium">A.S.D. T.T. FERRARA D</span></td>
-                    <td>19/03 - 16:30</td>
-                </tr>
-                <tr>
-                    <td>D2</td>
-                    <td><span class="font-medium">A.S.D. T.T. FERRARA E</span></td>
-                    <td>ASD CASTENASO PING PONG TRE</td>
-                    <td>20/03 - 10:00</td>
-                </tr>
-                <tr>
-                    <td>D2</td>
-                    <td><span class="font-medium">A.S.D. T.T. FERRARA F</span></td>
-                    <td>TT ACLI LUGO D2 SENIOR</td>
-                    <td>19/03 - 16:00</td>
-                </tr>
+                
             </tbody>
         </table>
     </div>
