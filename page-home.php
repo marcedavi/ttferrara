@@ -42,19 +42,7 @@
     <h2>Prossimi incontri</h2>
 
     <div class="overflow-x-auto">
-        <table id="next-matches-table" class="table-auto mx-auto">
-            <thead>
-                <tr>
-                    <th>Serie</th>
-                    <th>Di casa</th>
-                    <th>Ospiti</th>
-                    <th>Data e ora</th>
-                </tr>
-            </thead>
-            <tbody>
-                
-            </tbody>
-        </table>
+        <?php echo get_theme_mod('matches_table_setting'); ?>
     </div>
 </section>
 

@@ -132,6 +132,14 @@ function ttferrara_customize_register($wp_customize)
         'mime_type' => 'image',
     )));
 
+    // Upcoming matches table
+    $wp_customize->add_setting('matches_table_setting');
+    $wp_customize->add_control('matches_table_setting', array(
+        'label' => 'Prossimi incontri',
+        'type' => 'textarea',
+        'section' => 'ttferrara',
+    ));
+
     // Carousel
     for ($i = 1; $i <= 10; $i++) {
         $wp_customize->add_setting('carousel[text_' . $i . ']');
