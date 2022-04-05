@@ -10,7 +10,7 @@
         <?php if(has_post_thumbnail()) { ?>
             <div class="w-full md:w-1/6">
                 <?php the_post_thumbnail('small', array(
-                    'class' => 'object-cover w-full h-full rounded-t-lg md:rounded-l-lg md:rounded-r-none'
+                    'class' => 'max-h-96 object-cover w-full md:h-full rounded-t-lg md:rounded-l-lg md:rounded-r-none'
                 )) ?>
             </div>
         <?php } ?>
