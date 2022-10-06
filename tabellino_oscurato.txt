@@ -1,0 +1,8 @@
+<div class="relative">
+<table class="table-auto mx-auto"><thead><tr><th>Serie</th><th>Di casa</th><th>Ospiti</th><th>Data e ora</th></tr></thead>
+<tbody class="relative"><tr><td>B2</td><td><span class="font-medium">A.S.D. T.T. FERRARA A</span></td><td>A&G - ASDTT MARCO POLO</td><td>08/05 - 17.30</td></tr><tr><td>C1</td><td><span class="font-medium">A.S.D. T.T. FERRARA B</span></td><td>TT-ARSENAL-ASD</td><td>07/05 - 16.00</td></tr><tr><td>C2</td><td>MAIOR 1</td><td><span class="font-medium">A.S.D. T.T. FERRARA C</span></td><td>08/05 - 10.00</td></tr><tr><td>D1</td><td>ASS. DYNAMIS TOPSOLID C</td><td><span class="font-medium">A.S.D. T.T. FERRARA D</span></td><td>07/05 - 16.00</td></tr><tr><td>D2</td><td><span class="font-medium">A.S.D. T.T. FERRARA E</span></td><td>FORTITUDO BOLOGNA   9</td><td>15/05 - 10.00</td></tr><tr><td>D2</td><td><span class="font-medium">A.S.D. T.T. FERRARA F</span></td><td>ASD TENNISTAVOLO NETTUNO - CIBIX</td><td>07/05 - 16.00</td></tr>
+<tr class="absolute top-0 left-0 w-full h-full bg-gray-50" style="opacity: 90%"></tr>
+</tbody>
+</table>
+<div class="absolute top-0 left-0 w-full h-full flex justify-center" style="align-items: center"><p class="font-bold" style="padding-top: 20px">Campionato 2021/2022 terminato</p></div>
+</div>
