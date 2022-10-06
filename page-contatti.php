@@ -33,7 +33,7 @@
 </section>
 
 <section class="container">
-    <h2>Campo gara e allenamenti agonisti</h2>
+    <h2>Campo gara e allenamenti</h2>
 
     <div class="image-and-text-right">
         <iframe src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d707.3609376742804!2d11.625137490332692!3d44.83289562245295!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x477e4e418ddaaaab%3A0x842ad76a2a9b2bf5!2sVia%20Praisolo%2C%201%2C%2044121%20Ferrara%20FE!5e0!3m2!1sen!2sit!4v1635548449027!5m2!1sen!2sit" width="600" height="450" style="border:0;" allowfullscreen="" loading="lazy"></iframe>
@@ -41,19 +41,6 @@
             <h3>Via Praisolo, 1, 44121 Ferrara FE</h3>
             <p>Palestra della scuola I.I.S. Luigi Einaudi.</p>
             <p>Raggiungibile in auto, è presente il parcheggio interno.</p>
-        </div>
-    </div>
-</section>
-
-<section class="container">
-    <h2>Allenamenti giovani e amatori</h2>
-
-    <div class="image-and-text-right">
-        <iframe src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d458.5853110460262!2d11.61541381708316!3d44.82006814374443!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x477e4e6031f9c95b%3A0xf1daa0b58f94526!2sVia%20Gaetano%20Pesci%2C%20181%2C%2044124%20Ferrara%20FE!5e0!3m2!1sen!2sit!4v1640015533024!5m2!1sen!2sit" width="600" height="450" style="border:0;" allowfullscreen="" loading="lazy"></iframe>
-        <div>
-            <h3>Via Gaetano Pesci, 181, 44124 Ferrara FE</h3>
-            <p>Rivana Garden.</p>
-            <p>Raggiungibile in auto, è presente il parcheggio.</p>
         </div>
     </div>
 </section>
