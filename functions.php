@@ -232,6 +232,12 @@ function ttferrara_customize_register($wp_customize)
         'section' => 'ttferrara',
         'mime_type' => 'image',
     )));
+    $wp_customize->add_setting('squadra_g_image_setting');
+    $wp_customize->add_control(new WP_Customize_Media_Control($wp_customize, 'squadra_g_image_setting', array(
+        'label' => 'Squadra G',
+        'section' => 'ttferrara',
+        'mime_type' => 'image',
+    )));
 }
 add_action('customize_register', 'ttferrara_customize_register');
 

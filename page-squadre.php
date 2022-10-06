@@ -81,7 +81,7 @@
     </div>
 
     <div class="image-and-text-left">
-        <?php echo wp_get_attachment_image(get_theme_mod('squadra_f_image_setting'), 'ttferrara_large'); ?>
+        <?php echo wp_get_attachment_image(get_theme_mod('squadra_g_image_setting'), 'ttferrara_large'); ?>
         <div>
             <h3>ASDTT Ferrara G</h3>
             <h4 class="mb-4">Serie D3 Girone E</h4>
