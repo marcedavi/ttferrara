@@ -11,6 +11,7 @@
             <p>Pietro Andreoli</p>
             <p>Maurizio Buzzone</p>
             <p>Alessandro Andreoli</p>
+            <p>Tommaso Seidenari</p>
             <a href="http://portale.fitet.org/risultati/campionati/campionati.php?CAM=37&CONC=0" class="mt-4 link">Classifica, calendario e statistiche</a>
         </div>
         <?php echo wp_get_attachment_image(get_theme_mod('squadra_a_image_setting'), 'ttferrara_large'); ?>
